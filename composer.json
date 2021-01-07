@@ -1,12 +1,12 @@
 {
     "name": "redbastie/larawire",
     "description": "Laravel + Livewire + Bootstrap auth UI & CRUD scaffolding.",
-    "homepage": "https://github.com/redbastie/larawire",
+    "homepage": "https://github.com/hanize/larawire",
     "license": "MIT",
     "authors": [
         {
-            "name": "Kevin Dion",
-            "email": "redbastie@icloud.com",
+            "name": "JinWoo Jung",
+            "email": "hanize2@gmail.com",
             "role": "Developer"
         }
     ],

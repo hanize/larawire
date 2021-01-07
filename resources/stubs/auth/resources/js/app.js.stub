@@ -1,2 +1,2 @@
 require('./bootstrap');
-require('../../vendor/redbastie/larawire/resources/js/larawire');
+require('../../vendor/hanize/larawire/resources/js/larawire');

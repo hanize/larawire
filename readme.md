@@ -6,7 +6,7 @@ Requirements:
 
 - Laravel 8
 - NPM
-- FontAwesome Pro
+- FontAwesome Free
 
 Features include:
 
